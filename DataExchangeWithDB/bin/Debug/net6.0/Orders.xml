@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <Order>
+    <Order_id>29</Order_id>
+    <Order_date>2000-09-01T00:00:00</Order_date>
+    <Order_sum>500</Order_sum>
+    <Product_quantity>5</Product_quantity>
+    <Product>a
+      <Product_name>Aqua</Product_name>
+      <Price>100</Price>
+      <Description>Sparkling water</Description>
+    </Product>
+    <User>
+      <First_name>Jake</First_name>
+      <Second_name>Smith</Second_name>
+      <Third_name></Third_name>
+      <Birthdate>1986-08-16T00:00:00</Birthdate>
+      <Phone>+12065566556</Phone>
+      <Email>jake@mail.com</Email>
+      <Address>California</Address>
+    </User>
+  </Order>
+  <Order>
+    <Order_id>30</Order_id>
+    <Order_date>2000-09-01T00:00:00</Order_date>
+    <Order_sum>600</Order_sum>
+    <Product_quantity>3</Product_quantity>
+    <Product>
+      <Product_name>Milka</Product_name>
+      <Price>200</Price>
+      <Description>Milk chocolate</Description>
+    </Product>
+    <User>
+      <First_name>Lora</First_name>
+      <Second_name>Palmer</Second_name>
+      <Third_name></Third_name>
+      <Birthdate>1997-03-22T00:00:00</Birthdate>
+      <Phone>?+12064512559</Phone>
+      <Email>lora@mail.com</Email>
+      <Address>Florida</Address>
+    </User>
+  </Order>
+  <Order>
+    <Order_id>31</Order_id>
+    <Order_date>2000-09-01T00:00:00</Order_date>
+    <Order_sum>5000</Order_sum>
+    <Product_quantity>5</Product_quantity>
+    <Product>
+      <Product_name>Pixel 7</Product_name>
+      <Price>1000</Price>
+      <Description>Android 13</Description>
+    </Product>
+    <User>
+      <First_name>Jake</First_name>
+      <Second_name>Smith</Second_name>
+      <Third_name></Third_name>
+      <Birthdate>1986-08-16T00:00:00</Birthdate>
+      <Phone>+12065566556</Phone>
+      <Email>jake@mail.com</Email>
+      <Address>California</Address>
+    </User>
+  </Order>
+</Orders>
